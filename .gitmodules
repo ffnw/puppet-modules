@@ -1,0 +1,64 @@
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/ffnw/puppet-backbone.git
+	branch = master
+[submodule "batman"]
+	path = batman
+	url = https://github.com/ffnw/puppet-batman.git
+	branch = master
+[submodule "bird"]
+	path = bird
+	url = https://github.com/ffnw/puppet-bird.git
+	branch = master
+[submodule "fastd"]
+	path = fastd
+	url = https://github.com/ffnw/puppet-fastd.git
+	branch = master
+[submodule "ffrl"]
+	path = ffrl
+	url = https://github.com/ffnw/puppet-ffrl.git
+	branch = master
+[submodule "grmlzsh"]
+	path = grmlzsh
+	url = https://github.com/ffnw/puppet-grmlzsh.git
+	branch = master
+[submodule "hood"]
+	path = hood
+	url = https://github.com/ffnw/puppet-hood.git
+	branch = master
+[submodule "hopglassserver"]
+	path = hopglassserver
+	url = https://github.com/ffnw/puppet-hopglassserver.git
+	branch = master
+[submodule "ibgp"]
+	path = ibgp
+	url = https://github.com/ffnw/puppet-ibgp.git
+	branch = master
+[submodule "icvpn"]
+	path = icvpn
+	url = https://github.com/ffnw/puppet-icvpn.git
+	branch = master
+[submodule "ipcalc"]
+	path = ipcalc
+	url = https://github.com/ffnw/puppet-ipcalc.git
+	branch = master
+[submodule "network"]
+	path = network
+	url = https://github.com/ffnw/puppet-network.git
+	branch = master
+[submodule "radvd"]
+	path = radvd
+	url = https://github.com/ffnw/puppet-radvd.git
+	branch = master
+[submodule "router"]
+	path = router
+	url = https://github.com/ffnw/puppet-router.git
+	branch = master
+[submodule "tunneldigger"]
+	path = tunneldigger
+	url = https://github.com/ffnw/puppet-tunneldigger.git
+	branch = master
+[submodule "user"]
+	path = user
+	url = https://github.com/ffnw/puppet-user.git
+	branch = master
